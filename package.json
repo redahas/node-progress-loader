@@ -1,0 +1,12 @@
+{
+  "name": "node-progress-loader",
+  "version": "1.0.0",
+  "description": "A Node progress loader",
+  "main": "index.js",
+  "repository": "https://github.com/redahas/node-progress-loader",
+  "author": "Sean Redahan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
